@@ -15,17 +15,13 @@
     }
   },
   "info": {
-    "title": "Central Request",
+    "title": "API",
     "version": "1.0.0",
-    "description": "API para centralizar as requisições de todos os sistemas do Einstein",
+    "description": "",
     "license": {
       "name": "MIT"
     },
-    "contact": {
-      "name": "Portal Empresas",
-      "url": "https://portalempresas-root.telemedicinaeinstein.com.br/",
-      "email": ""
-    }
+    "contact": {}
   },
   "openapi": "3.0.0",
   "paths": {},
