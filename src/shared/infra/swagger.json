@@ -1,0 +1,37 @@
+{
+  "components": {
+    "examples": {},
+    "headers": {},
+    "parameters": {},
+    "requestBodies": {},
+    "responses": {},
+    "schemas": {},
+    "securitySchemes": {
+      "api_key": {
+        "type": "apiKey",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  },
+  "info": {
+    "title": "Central Request",
+    "version": "1.0.0",
+    "description": "API para centralizar as requisições de todos os sistemas do Einstein",
+    "license": {
+      "name": "MIT"
+    },
+    "contact": {
+      "name": "Portal Empresas",
+      "url": "https://portalempresas-root.telemedicinaeinstein.com.br/",
+      "email": ""
+    }
+  },
+  "openapi": "3.0.0",
+  "paths": {},
+  "servers": [
+    {
+      "url": "/"
+    }
+  ]
+}
